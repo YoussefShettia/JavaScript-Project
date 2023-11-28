@@ -1,0 +1,9 @@
+/* Add your CSS styles for the banner and generated page here */
+header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Add more styles as needed */
